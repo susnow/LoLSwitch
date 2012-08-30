@@ -63,7 +63,7 @@ namespace LoL_Server_Switch_Launcher
             {
                 case "default": RadioButton_defaultHost.Checked = true; break;
                 case "match": RadioButton_matchHost.Checked = true; break;
-                case "test": RadioButton_matchHost.Checked = true; break;
+                case "test": RadioButton_testHost.Checked = true; break;
             }
 
             //首次加载时文件夹路径的文字
