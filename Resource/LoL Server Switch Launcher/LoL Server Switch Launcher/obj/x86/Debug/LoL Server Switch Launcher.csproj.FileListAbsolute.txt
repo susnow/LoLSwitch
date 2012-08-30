@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\LoL Server Switch Launcher\LoL Server Switch Launcher\bin\Debug\LoL Server Switch Launcher.exe
+c:\users\administrator\documents\visual studio 2010\Projects\LoL Server Switch Launcher\LoL Server Switch Launcher\bin\Debug\LoL Server Switch Launcher.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\LoL Server Switch Launcher\LoL Server Switch Launcher\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\LoL Server Switch Launcher\LoL Server Switch Launcher\obj\x86\Debug\LoL_Server_Switch_Launcher.lancherForm.resources
+c:\users\administrator\documents\visual studio 2010\Projects\LoL Server Switch Launcher\LoL Server Switch Launcher\obj\x86\Debug\LoL_Server_Switch_Launcher.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\LoL Server Switch Launcher\LoL Server Switch Launcher\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\LoL Server Switch Launcher\LoL Server Switch Launcher\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\LoL Server Switch Launcher\LoL Server Switch Launcher\obj\x86\Debug\LoL Server Switch Launcher.exe
+c:\users\administrator\documents\visual studio 2010\Projects\LoL Server Switch Launcher\LoL Server Switch Launcher\obj\x86\Debug\LoL Server Switch Launcher.pdb
